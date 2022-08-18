@@ -1,0 +1,6 @@
+{
+  "title":"the title of the article",
+  "desc":"a short description of the article",
+  "tags":["tag1", "tag2"],
+  "author":"author name"
+}
