@@ -77,4 +77,4 @@
 * گاهی اوقات لازم است که بعضی از متغیرهای مورد نیاز مانند توکن برای احراز هویت و ... را از پاسخ API‌ها با استفاده از المنت‌هایی مانند JSON Extractor و … استخراج کرده و در API‌های بعدی استفاده کنید.
 * گاهی نیاز است که برای ارزیابی درخواست‌ها از `تائیدیه یا asserion` استفاده می‌کنیم که در مقاله [Assertion در جیمیتر چیست؟ کاربرد و انواع آن](https://docs.google.com/document/d/1F-lnAk39PhjXq0BPixJWqBttR6cru4zG-o73oXKbLws/edit) نحوه کار با آن‌ها بررسی شده است.
  
-پس از اعمال تغییرات مورد نظر، تست را اجرا کرده و نتایج را با استفاده از listener‌های مناسب مشاهده کنید. (برای آشنایی با انواع Listener‌ها میتوانید به مقاله [Listener و نحوه رصد نتایج تست در جی‌میتر](https://docs.google.com/document/d/14MUDuvP3imKOGwTtZx0IYw2xaiKFYOX1JiiR1O_V234/edit#heading=h.lw4gy2pexw25) مراجعه کنید.)
+پس از اعمال تغییرات مورد نظر، تست را اجرا کرده و نتایج را با استفاده از `شنودگر یا listener‌` مناسب مشاهده کنید. (برای آشنایی با انواع Listener‌ها میتوانید به مقاله [Listener و نحوه رصد نتایج تست در جی‌میتر](https://docs.google.com/document/d/14MUDuvP3imKOGwTtZx0IYw2xaiKFYOX1JiiR1O_V234/edit#heading=h.lw4gy2pexw25) مراجعه کنید.)
