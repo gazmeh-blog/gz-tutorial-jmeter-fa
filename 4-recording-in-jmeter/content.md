@@ -63,7 +63,7 @@
 
 سپس می‌توانید درخواست‌های ضبط شده را در قسمت Recording Controller مشاهده کنید:
 
-![Recording APIs](./resources/recording-apis.png?raw=true "Recording APIs")
+![Recorded APIs](./resources/recorded-apis.png?raw=true "Recorded APIs")
 
 اکثر اوقات نیاز است که پس از ضبط، بخش‌هایی را ویرایش کنید. مانند:
 * گاهی اوقات درخواست‌های اضافه‌تری ضبط می‌شوند که در تست تاثیری ندارند، می‌توانید با توجه به تست آن‌ها حذف کنید.
