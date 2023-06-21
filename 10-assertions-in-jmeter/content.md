@@ -180,7 +180,7 @@ JSR223 Assertion نسبت به BeanShell Assertion انعطاف‌پذیری ب�
 
 به عنوان مثال اسکریپتی با استفاده از groovy می‌نویسیم تا به کمک آن بررسی کنیم فیلد tagName تمامی آموزش‌ها برابر با "جی‌میتر" باشد:
 ```groovy
-	import groovy.json.JsonSlurper
+import groovy.json.JsonSlurper
 
 error=false; msg="";
 
