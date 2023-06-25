@@ -230,11 +230,7 @@ if(error){
   
 اگر پاسخ در مدت زمانی بیشتر از مدت زمان مشخص شده از سرور دریافت شود، این Assertion با خطا مواجه می‌شود.
 
-   ![Final Response Time Schematic](./resources/final-res-time-schematic.png?raw=true "Final Response Time Schematic")
-   
-  اجرای با موفقیت → زمان مورد انتظار => زمان پاسخ
-  
-اجرای با شکست → زمان مورد انتظار < زمان پاسخ
+   ![Response Time Schematic](./resources/response-time-schematic.png?raw=true "Response Time Schematic")
 
 به عنوان مثال چندین کاربر همزمان، درخواست دریافت لیست آموزش‌های جی‌میتر سایت گزمه را اجرا می‌کنند. حال می‌خواهیم بررسی کنیم که آیا سرور هر درخواست را در کمتر از 450 میلی‌ثانیه پاسخ می‌دهد و یا تحت تاثیر بار زیاد قرار گرفته و مدت زمان ارسال پاسخ افزایش می‌یابد. بنابراین مقدار Duration in millisecond را برابر با 450 قرار می‌دهیم:
 
