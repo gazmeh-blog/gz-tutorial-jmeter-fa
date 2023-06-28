@@ -77,4 +77,4 @@
 
 ![View Results Tree](./resources/view-results-tree.png?raw=true "View Results Tree")
 
-برای آشنایی بیشتر با انواع Listener‌ها می‌توانید به مقاله Listener و نحوه رصد نتایج تست در جی‌میتر مراجعه کنید.
+برای آشنایی بیشتر با انواع Listener‌ها می‌توانید به مقاله [Listener و نحوه رصد نتایج تست در جی‌میتر](https://gazmeh.ir/posts/listener-and-how-to-monitor-test-results-in-jmeter) مراجعه کنید.
